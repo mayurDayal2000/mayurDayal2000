@@ -1,22 +1,18 @@
-# Hi, I'm Mayur 👋
+# Hi 👋, I'm Mayur
 
-<div align=center>
+**Frontend-focused Software Engineer with Backend capabilities (APIs, Auth) and DevOps expertise (CI/CD, Containerization, Orchestration)**
 
-![cover banner](./banner.gif) <br>
-
-![visitor counter](https://komarev.com/ghpvc/?username=mayurDayal2000&color=orange&style=plastic&label=Visitors)
-
-</div>
+![profile views](https://komarev.com/ghpvc/?username=mayurDayal2000&color=orange&style=plastic&label=Profile_views)
 
 <br>
 
 ## About Me
 
-🎓 Computer Science graduate with a passion for front-end development.<br>
-💡 Creative problem-solver, turning ideas into elegant and functional web solutions.<br>
-🌟 Committed to clean code, responsive design, and delightful user experiences.<br>
-💡 Passionate about contributing to open-source projects that make a positive impact.<br>
-💬 Ask me about **CSS and JavaScript**; I'm always eager to share knowledge and learn together.<br>
+🎓 Graduated with **_Bachelor's in Computer Science_** in 2021
+
+🔭 Currently building productive tools for developers at **_[Penify.dev](https://www.penify.dev/)_**
+
+💬 Reach out with any questions or projects related to **_React, JavaScript, CSS_** or other frontend technologies
 
 <br>
 
@@ -40,7 +36,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mayurDayal2000&theme=radical&hide_border=false&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=mayurDayal2000&show_icons=true&theme=radical&hide_border=false&include_all_commits=true)
+
 <br/><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayurDayal2000&theme=radical&hide_border=false)
